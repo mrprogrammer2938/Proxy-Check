@@ -2,6 +2,9 @@
 
 This Programm write by [Mr.nope](https://github.com/mrprogrammer2938)
 
+## Scr
+[![Proxy-Check-Work-Scr](https://user-images.githubusercontent.com/78996423/124674369-d5b5f380-decf-11eb-95b4-bb8f5d1ad607.png)](https://github.com/mrprogrammer2938/Proxy-Check)
+
 
 **Installing**
 ```
